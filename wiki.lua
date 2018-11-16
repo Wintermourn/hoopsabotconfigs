@@ -11,5 +11,7 @@ Throughout this wiki definition, every `h.' should be replaced with the server's
 
 To view the list of commands, type `h.commands'. However, this command does not list every command,]]..
 [[ and some you may have to figure out on your own or from others.```]]
+wiki.test = [[```diff
+Testing! ```]]
 
 return wiki
